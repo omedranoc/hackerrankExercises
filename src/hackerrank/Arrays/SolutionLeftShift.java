@@ -6,6 +6,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+//shift arrays to the left  https://www.hackerrank.com/challenges/array-left-rotation
 public class SolutionLeftShift {
 	
 	public static void main(String[] args) {
