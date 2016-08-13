@@ -3,7 +3,7 @@ package hackerrank.Arrays;
 
 import java.util.*;
 
-//Hourglass hackerrank problem -Array
+//Hourglass hackerrank problem -Array https://www.hackerrank.com/challenges/2d-array
 public class Solution2dArray {
     private List<Integer> listOfArrays= new ArrayList<Integer>();
     public static void main(String[] args) {
